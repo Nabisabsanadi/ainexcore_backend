@@ -21,7 +21,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:3000",
-      "https://your-netlify-app-name.netlify.app", // 👈 yahan apna actual Netlify URL daalna
+      "https://ainexcore-academy.netlify.app/", // 👈 yahan apna actual Netlify URL daalna
     ],
     credentials: true,
   })
